@@ -1,0 +1,1 @@
+In this folder we explore the conceptsabout the commands and shell scripts that are related to shell variables
